@@ -1,0 +1,6 @@
+{
+  "name": "GradeCard Flow",
+  "description": "Enterprise institutional control, governance, count-reconciliation, and physical logistics system for student result approval, grade card printing, packing, and courier dispatch tracking backed by Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
